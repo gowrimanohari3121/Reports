@@ -5,6 +5,7 @@
 	<groupId>main.java</groupId>
 	<artifactId>maven</artifactId>
 	<version>1.0.0</version>
+	<packaging>war</packaging>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
